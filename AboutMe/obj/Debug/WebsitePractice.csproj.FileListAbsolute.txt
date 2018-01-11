@@ -1,0 +1,12 @@
+C:\Users\adweidar\Desktop\WebsitePractice\WebsitePractice\bin\WebsitePractice.dll.config
+C:\Users\adweidar\Desktop\WebsitePractice\WebsitePractice\bin\WebsitePractice.dll
+C:\Users\adweidar\Desktop\WebsitePractice\WebsitePractice\bin\WebsitePractice.pdb
+C:\Users\adweidar\Desktop\WebsitePractice\WebsitePractice\obj\Debug\WebsitePractice.csprojResolveAssemblyReference.cache
+C:\Users\adweidar\Desktop\WebsitePractice\WebsitePractice\obj\Debug\WebsitePractice.dll
+C:\Users\adweidar\Desktop\WebsitePractice\WebsitePractice\obj\Debug\WebsitePractice.pdb
+C:\Users\adweidar\Documents\GitHub\Websites\AboutMe\bin\WebsitePractice.dll.config
+C:\Users\adweidar\Documents\GitHub\Websites\AboutMe\bin\WebsitePractice.dll
+C:\Users\adweidar\Documents\GitHub\Websites\AboutMe\bin\WebsitePractice.pdb
+C:\Users\adweidar\Documents\GitHub\Websites\AboutMe\obj\Debug\WebsitePractice.csprojResolveAssemblyReference.cache
+C:\Users\adweidar\Documents\GitHub\Websites\AboutMe\obj\Debug\WebsitePractice.dll
+C:\Users\adweidar\Documents\GitHub\Websites\AboutMe\obj\Debug\WebsitePractice.pdb
